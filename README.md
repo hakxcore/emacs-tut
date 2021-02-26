@@ -79,7 +79,7 @@ to use `OPT` (`option`) as `M`.
 <br>
 
 
-## Finding Files
+## Find Files
 
 | Key |                       Work                                 |
 |-----|------------------------------------------------------------|
