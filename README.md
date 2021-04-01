@@ -36,7 +36,7 @@ to use `OPT` (`option`) as `M`.
 | Key |                       Work                                 |
 |-----|------------------------------------------------------------|
 |`C-p`| Go to Previous line                                        |
-|`C-n | Go to next line                                            |
+|`C-n`| Go to next line                                            |
 |`C-b`| Go backward in line                                        |
 |`C-f`| Go forward in line                                         |
 |`M-f`| Move forward in line word by word                          |
