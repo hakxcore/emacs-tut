@@ -8,10 +8,10 @@
 <a href="https://github.com/MUKESHKUMAR2001"><img title="Author" src="https://img.shields.io/badge/Author-mukesh%20kumar-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/MUKESHKUMAR2001/followers"><img title="Followers" src="https://img.shields.io/github/followers/MUKESHKUMAR2001?color=blue&style=flat-square"></a>
-<a href="https://github.com/MUKESHKUMAR2001/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MUKESHKUMAR2001/emacs-tut?color=red&style=flat-square"></a>
-<a href="https://github.com/MUKESHKUMAR2001/emacs-tut/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MUKESHKUMAR2001/emacs-tut?color=red&style=flat-square"></a>
-<a href="https://github.com/MUKESHKUMAR2001/emacs-tut/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MUKESHKUMAR2001/emacs-tut?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/hakxcore/followers"><img title="Followers" src="https://img.shields.io/github/followers/hakxcore?color=blue&style=flat-square"></a>
+<a href="https://github.com/hakxcore/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/hakxcore/emacs-tut?color=red&style=flat-square"></a>
+<a href="https://github.com/hakxcore/emacs-tut/network/members"><img title="Forks" src="https://img.shields.io/github/forks/hakxcore/emacs-tut?color=red&style=flat-square"></a>
+<a href="https://github.com/hakxcore/emacs-tut/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/hakxcore/emacs-tut?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="UNMAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
