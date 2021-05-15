@@ -182,4 +182,5 @@ to use `OPT` (`option`) as `M`.
   
   
   
-  
+  ## Credits
+Copyright © 2021 by <a href="https://github.com/hakxcore">Hakxcore</a>
